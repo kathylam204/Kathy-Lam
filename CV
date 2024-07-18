@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Kathy Lam</h1>
+    <p>Email: kathylambusiness@gmail.com</p>
+    <h2>Education</h2>
+    <p>Bachelors In Science</p>
+    <p>Computer Science</p>
+    <h2>Experience</h2>
+    <p>Details about your work experience.</p>
+    <h2>Skills</h2>
+    <p>Details about your skills.</p>
+</body>
+</html>

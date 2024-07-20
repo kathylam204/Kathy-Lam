@@ -57,15 +57,20 @@ ul {
 }
 
 .year {
-    font-size: 14px;
+    font-size: 18px;
+    font-weight: bold;
     color: #001861;
-    background-color: #f4f4f4;
-    padding: 2px 5px;
-    margin-left: 10px;
-    border-radius: 5px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 5px;
 }
 
-.job, .project {
+.experience-item, .education-item, .project {
     margin-bottom: 20px;
+    border-left: 2px solid #001861;
+    padding-left: 10px;
 }
+
+.details {
+    padding-left: 10px;
+    border-left: 2px solid #f4f4f4;
+}
+
